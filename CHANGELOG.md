@@ -1,6 +1,9 @@
 
 # Changelog
 
+## 4.0.6 (09/JAN/2021)
+* Fixes the issue of buffering reported for SSAI ads even though ads are playing. 
+
 ## 4.0.5 (25/SEP/2020)
 * Supports auto collection of Screen Resolution of the Display connected to Chromecast. (Core SDK 4.0.18 and above)
 * Supports auto collection of Dropped Frames during playback. (Core SDK 4.0.18 and above)
