@@ -9,7 +9,7 @@ The Conviva JavaScript Chromecast CAF module module is built on top of <a href="
 <script type="text/javascript" src="<PATH>/conviva-chromecast-cafmodule.js"></script>
 ```
 ## Supported Framework Versions
-Receiver SDK version 3.0.0 bundled with Media Player Library 1.0.0
+Receiver SDK version 3.0.0085 bundled with Media Player Library 1.0.0
 
 ## Supported Devices
 Chromecast 1, Chromecast 2 and Chromecast Ultra
