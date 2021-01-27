@@ -1,6 +1,9 @@
 
 # Changelog
 
+## 4.0.8 (27/JAN/2021)
+* Supports Average Framerate (afps) collection.
+
 ## 4.0.6 (09/JAN/2021)
 * Fixes the issue of buffering reported for SSAI ads even though ads are playing. 
 
