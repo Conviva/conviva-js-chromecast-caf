@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 4.0.9 (29/APR/2021)
+* Supports custom UI element(_castMediaElement_) along with cast-media-player.
+* Disables auto collection of Average Framerate (afps) collection, as CAF _PlayerManager.getStats().decodedFrames_ stats is unreliable.
+
 ## 4.0.8 (27/JAN/2021)
 * Supports Average Framerate (afps) collection.
 
