@@ -1,0 +1,25 @@
+{
+  "name": "@convivainc/conviva-js-chromecast-caf",
+  "version": "4.0.9",
+  "description": "Conviva Chromecast CAF module",
+  "main": "conviva-chromecast-cafmodule.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conviva/conviva-js-chromecast-caf.git"
+  },
+  "keywords": [
+    "chromecast",
+    "conviva",
+    "caf",
+    "module"
+  ],
+  "author": "Conviva Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Conviva/conviva-js-chromecast-caf/issues"
+  },
+  "homepage": "https://github.com/Conviva/conviva-js-chromecast-caf#readme",
+  "dependencies": {
+    "@convivainc/conviva-js-coresdk": "^4.4.3"
+  }
+}
