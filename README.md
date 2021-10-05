@@ -7,6 +7,12 @@ Conviva Chromecast CAF module auto-detects events emitted by Player Manager.
 npm install @convivainc/conviva-js-chromecast-caf --save
 ```
 
+## Install via yarn 
+
+```
+yarn add @convivainc/conviva-js-chromecast-caf
+```
+
 ## Supported Framework Versions
 Receiver SDK version 3.0.0085 bundled with Media Player Library 1.0.0
 
