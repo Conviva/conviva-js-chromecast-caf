@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 4.0.11 (28/JUL/2022)
+* Supports Typescript.
+* Fixes the issue of bitrates not reported for VOD contents with multiple audio streams.
+
 ## 4.0.9 (29/APR/2021)
 * Supports custom UI element(_castMediaElement_) along with cast-media-player.
 * Disables auto collection of Average Framerate (afps) collection, as CAF _PlayerManager.getStats().decodedFrames_ stats is unreliable.
