@@ -9,15 +9,6 @@ Via html:
 <script type="text/javascript" src="<PATH>/conviva-core-sdk.js"></script>
 <script type="text/javascript" src="<PATH>/conviva-chromecast-cafmodule.js"></script>
 ```
-Via import/require:
-```
-const Conviva = require('<path>/conviva-js-coresdk');
-const ConvivaChromecastCafModule = require('<path>/conviva-chromecast-cafmodule');
-```
-```
-import Conviva from '@convivainc/conviva-js-coresdk'
-import ConvivaChromecastCafModule from'@convivainc/conviva-chromecast-cafmodule'
-```
 ## Install via npm 
 
 ```
@@ -27,6 +18,17 @@ npm install @convivainc/conviva-js-chromecast-caf --save
 
 ```
 yarn add @convivainc/conviva-js-chromecast-caf
+```
+Refer to following sample code to include Chromecast CAF modules followed by Conviva modules.
+
+Via import/require:
+```
+const Conviva = require('<path>/conviva-js-coresdk');
+const ConvivaChromecastCafModule = require('<path>/conviva-js-chromecast-caf');
+```
+```
+import Conviva from '@convivainc/conviva-js-coresdk'
+import ConvivaChromecastCafModule from'@convivainc/conviva-js-chromecast-caf'
 ```
 
 ## Supported Framework Versions
