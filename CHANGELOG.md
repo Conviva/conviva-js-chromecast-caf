@@ -1,6 +1,9 @@
 
 # Changelog
 
+## 4.0.13 (13/MAY/2025)
+* Fixes reporting of MODULE_VERSION
+
 ## 4.0.12 (12/JUL/2023)
 * Fixes the issue of ad errors (BREAK_CLIP_LOADING_ERROR & BREAK_SEEK_INTERCEPTOR_ERROR) being reported in content session as fatal
 
